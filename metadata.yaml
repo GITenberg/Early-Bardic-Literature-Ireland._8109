@@ -1,0 +1,31 @@
+_repo: Early-Bardic-Literature-Ireland._8109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Grady, Standish
+    aliases:
+    - Clive, Arthur
+    - Netterville, Luke
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '1696'
+    url: http://www.gutenberg.org/2009/agents/1696
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Ireland -- History and criticism'
+- !lcc 'PB'
+- !lcsh 'Bards and bardism'
+- !lcsh 'Civilization, Celtic, in literature'
+- !lcsh 'Epic literature, Irish -- History and criticism'
+- !lcsh 'Language and culture -- Ireland'
+- GITenberg
+title: Early Bardic Literature, Ireland.
+url: http://www.gutenberg.org/ebooks/8109
